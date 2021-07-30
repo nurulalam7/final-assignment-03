@@ -1,0 +1,69 @@
+.header{
+    padding-left: 200px;
+    padding-top:50px;
+}
+
+
+.nav{
+    font-size: 2rem;
+    
+}
+.image-div img{
+    height:300px;
+    width: 350px;
+    pt-5
+}
+.bike-collection{
+    margin-top: 40px;
+    text-align: center;
+    
+}
+.feture img{
+    width: 33%;
+    height: 200px;
+    width: 200px;
+    
+
+}
+.filter{
+    filter: sepia();
+}
+.latest-news{
+    text-align: center;
+    color: blue;
+}
+.client-feedback{
+    text-align: center;
+}
+.client-feedback span{
+    color: rgb(230, 59, 59);
+}
+.card-feedback{
+    height: 200px;
+    width: 200px;
+    padding-left: 100px;
+    
+    
+    
+}
+.footer-image img{
+    height: 400px;
+    width: 400px;
+    margin-left: 50px;
+}
+.container-heading{
+    text-align: center;
+    color: blueviolet;
+}
+.carousel-heading{
+    text-align: center;
+    color: crimson;
+}
+.customize img{
+    height: 100px;
+    width: 90px;
+}
+.secondary img{
+    height: 300px;
+    width: 250px;
+}
